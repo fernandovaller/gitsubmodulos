@@ -1,0 +1,6 @@
+[submodule "libs/counter-up"]
+	path = libs/counter-up
+	url = https://github.com/bfintal/Counter-Up.git
+[submodule "libs/waypoints"]
+	path = libs/waypoints
+	url = https://github.com/imakewebthings/waypoints.git
